@@ -1,0 +1,13 @@
+##fileformat=VCFv4.3
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of Samples With Data">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##contig=<ID=1>
+##contig=<ID=2>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample1	sample2	sample3
+1	1000	.	A	C	.	.	.	GT	0|1	1|.	.|.
+1	1010	.	A	C	.	.	.	GT	0|1	1|.	.|.
+1	2000	.	G	T	.	.	.	GT	1|1	1|.	.|1
+2	3000	.	C	G	.	.	.	GT	1|1	.|0	1|.
+2	4000	.	T	A	.	.	.	GT	0|0	.|1	1|1
+2	4050	.	T	A	.	.	.	GT	0|0	.|1	1|1
