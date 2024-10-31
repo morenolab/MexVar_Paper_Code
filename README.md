@@ -1,5 +1,5 @@
 # MexVar Paper Code
-This repository contains custom-made code used to analyze biomedical relevant variants presented in the paper: MexVar database for expanding Latin American precision medicine illustrates striking clinical genetic variation in the Mexican Biobank. Authored by Carmina Barberena-Jonas et al., PhD student at the Moreno Lab in Mexico (currently under review).
+This repository contains custom-made code used to analyze biomedically relevant variants presented in the paper: MexVar database for expanding Latin American precision medicine illustrates striking clinical genetic variation in the Mexican Biobank. Authored by Carmina Barberena-Jonas et al., PhD student at the Moreno Lab in Mexico (currently under review).
 
 ## Code available 
 
