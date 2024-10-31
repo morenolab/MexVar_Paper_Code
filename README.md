@@ -1,5 +1,5 @@
 # MexVar Paper Code
-This repository contains custom-make code used in the analysis and creation of the paper: MexVar database for expanding Latin American precision medicine illustrates striking clinical genetic variation in the Mexican Biobank. Authored by Carmina Barberena-Jonas, PhD student at MorenoLab. Currently under review. 
+This repository contains custom-made code used to analyze biomedical relevant variants presented in the paper: MexVar database for expanding Latin American precision medicine illustrates striking clinical genetic variation in the Mexican Biobank. Authored by Carmina Barberena-Jonas et al., PhD student at the Moreno Lab in Mexico (currently under review).
 
 ## Code available 
 
