@@ -1,4 +1,4 @@
-# Mask VCF by local ancestry
+# Masking VCF using local ancestry
 
 This program masks genotypes in a VCF file based on local ancestry information, which is provided in a .msp file format. Masked genotypes are encoded as missing values.
 
